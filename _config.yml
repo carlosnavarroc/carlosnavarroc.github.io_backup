@@ -48,28 +48,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there, my name is Carlos and I'm a Ph.D. and Electrical Civil Engineer interested in image processing, research, and teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My Ph.D. thesis was related to detecting complex patterns using color and texture features.
-
+  Hello there, my name is Carlos, and I'm a Ph.D. and Electrical Civil Engineer interested in image processing, research, and teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My Ph.D. thesis focused on detecting complex patterns using color and texture features.
 content:
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  University of Chile /  Universidad Santo Tomás / Universidad Andrés Bello
-        # link: https://scian.cl/scientific-image-analysis/scian-beta/
-        # link_text: boringcompany.com
-        sub_title:   University Teacher
-        caption: 2015 - Present
-        quote: >
-          One of my great passions is teaching, since my mother and father are teachers, it is extremely challenging to get other human beings to be an active part of their learning. 
-        description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.
-              
-          
-      - layout: left
         title:  Faculty of Medicine. University of Chile. 
-        link: https://scian.cl/scientific-image-analysis/scian-beta/
+        #link: https://scian.cl/scientific-image-analysis/scian-beta/
         additional_links: 
         # link_text: boringcompany.com
         sub_title:   Postdoctoral Researcher and  Assistant Researcher
@@ -77,11 +64,35 @@ content:
         quote: >
           Solve problems related to medicine and biology by using automation tools 
         description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA-Ring ACT192015.] (https://scian.cl/scientific-image-analysis/scian-beta/)
+          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA-Ring ACT192015.](https://scian.cl/scientific-image-analysis/scian-beta/)
           
           Spectral analysis of EEG signals to determine postoperative diseases. [Fondef Project ID19I10345.](https://neurosistemas.cl/2021/10/19/carlos-navarro/) 
           
           Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
+      
+      - layout: left
+        title:  University of Chile - U. Santo Tomás - U. Andrés Bello
+        # link: https://scian.cl/scientific-image-analysis/scian-beta/
+        # link_text: boringcompany.com
+        sub_title:   Professor
+        caption: 2015 - Present
+        quote: >
+          One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to be an active part of their learning is challenging. 
+        description: | # this will include new lines to allow paragraphs
+          During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
+              
+       - layout: left
+        title:  University of Chile - U. Santo Tomás - U. Andrés Bello
+        # link: https://scian.cl/scientific-image-analysis/scian-beta/
+        # link_text: boringcompany.com
+        sub_title:   Professor
+        caption: 2009 - 2016
+        quote: >
+          One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to be an active part of their learning is challenging. 
+        description: | # this will include new lines to allow paragraphs
+          During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
+          
+      
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
