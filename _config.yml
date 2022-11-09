@@ -150,7 +150,7 @@ content:
         quote: >
           The Beauchef campus was recreated in Gather Town
         description: | # this will include new lines to allow paragraphs
-          I started this project using the Gather Town application, a platform that encourages social interactions, allowing socialization, collaborative work in a fun way, creating new digital experiences to bring the University closer to students who They have not been able to visit it as a result of the pandemic.
+          I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization, and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it as a result of the pandemic.
       
       - layout: top-middle
         title: La Ciudad de Los Cesares Producer
@@ -166,7 +166,7 @@ content:
         quote: >
           This movie was financed entirely through crowdfunding.          
         description: | # this will include new lines to allow paragraphs
-          As a producer of an independent film, my role was to coordinate both people and objects in order to follow the work plan as planned. It was extremely challenging and rewarding to see the final product as a quality product.
+          As a producer of an independent film, my role was coordinating people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding.
 
   - title: A Little More About Me
     layout: text
