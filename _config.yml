@@ -69,7 +69,7 @@ content:
           Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. 
           Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
           
-    - layout: left
+      - layout: left
         title:  Faculty of Medicine. University of Chile. 
         link: https://neurosistemas.cl/2021/10/19/carlos-navarro/ 
         link: https://scian.cl/scientific-image-analysis/scian-beta/
