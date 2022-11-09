@@ -51,41 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello there, my name is Carlos and I'm a Ph.D. and Electrical Civil Engineer interested in image processing, research, and teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My Ph.D. thesis was related to detecting complex patterns using color and texture features.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Virtual Beauchef
-        link: https://tinyurl.com/beauchefvirtual
-        # link_text: Project Website
-        additional_links:
-          - title:  UChile News
-            icon: fab fa-github
-            url: https://uchile.cl/i176928
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          The Beauchef campus was recreated in Gather Town
-        description: | # this will include new lines to allow paragraphs
-          I started this project using the Gather Town application, a platform that encourages social interactions, allowing socialization, collaborative work in a fun way, creating new digital experiences to bring the University closer to students who They have not been able to visit it as a result of the pandemic.
-      
-      - layout: top-middle
-        title: La Ciudad de Los Cesares Producer
-        link: https://tinyurl.com/CNC-IMDB
-        # link_text: Project Website
-        additional_links:
-          - title:  Ofitial 
-            #icon: fab fa-github
-            url: http://www.laciudaddeloscesares.cl/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This movie was financed entirely through crowdfunding.          
-        description: | # this will include new lines to allow paragraphs
-          As a producer of an independent film, my role was to coordinate both people and objects in order to follow the work plan as planned. It was extremely challenging and rewarding to see the final product as a quality film.
-
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -125,9 +91,45 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
+- title: Other projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Virtual Beauchef
+        link: https://tinyurl.com/beauchefvirtual
+        # link_text: Project Website
+        additional_links:
+          - title:  UChile News
+            icon: fab fa-github
+            url: https://uchile.cl/i176928
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          The Beauchef campus was recreated in Gather Town
+        description: | # this will include new lines to allow paragraphs
+          I started this project using the Gather Town application, a platform that encourages social interactions, allowing socialization, collaborative work in a fun way, creating new digital experiences to bring the University closer to students who They have not been able to visit it as a result of the pandemic.
+      
+      - layout: top-middle
+        title: La Ciudad de Los Cesares Producer
+        link: https://tinyurl.com/CNC-IMDB
+        # link_text: Project Website
+        additional_links:
+          - title:  La Ciudad de Los Cesares. 
+            icon: fab fa-github
+            url: http://www.laciudaddeloscesares.cl/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This movie was financed entirely through crowdfunding.          
+        description: | # this will include new lines to allow paragraphs
+          As a producer of an independent film, my role was to coordinate both people and objects in order to follow the work plan as planned. It was extremely challenging and rewarding to see the final product as a quality film.
+
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
