@@ -64,9 +64,8 @@ content:
         quote: >
           Solve problems related to medicine and biology by using automation tools 
         description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.|
-          Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. |
-          Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.|
+          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.
+          Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
       
       
       - layout: left
@@ -78,7 +77,8 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          
+          Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. 
+
           
       - layout: left
         title:  Faculty of Medicine. University of Chile. 
