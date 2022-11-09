@@ -72,7 +72,7 @@ content:
       - layout: left
         title:  Faculty of Medicine. University of Chile. 
         link: https://neurosistemas.cl/2021/10/19/carlos-navarro/ 
-        link: https://scian.cl/scientific-image-analysis/scian-beta/
+        additional_links: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
         sub_title:   Postdoctoral Researcher and  Assistant Researcher
         caption: September 2019 - Present
