@@ -56,42 +56,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title:  University of Chile /  Universidad Santo Tomás / Universidad Andrés Bello
+        # link: https://scian.cl/scientific-image-analysis/scian-beta/
+        # link_text: boringcompany.com
+        sub_title:   University Teacher
+        caption: 2015 - Present
+        quote: >
+          One of my great passions is teaching, since my mother and father are teachers, it is extremely challenging to get other human beings to be an active part of their learning. 
+        description: | # this will include new lines to allow paragraphs
+          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.
+              
+          
+      - layout: left
         title:  Faculty of Medicine. University of Chile. 
         link: https://scian.cl/scientific-image-analysis/scian-beta/
+        additional_links: 
         # link_text: boringcompany.com
         sub_title:   Postdoctoral Researcher and  Assistant Researcher
         caption: September 2019 - Present
         quote: >
           Solve problems related to medicine and biology by using automation tools 
         description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.
-          Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
-      
-      
-      - layout: left
-        title:  
-        link: https://neurosistemas.cl/2021/10/19/carlos-navarro/ 
-        # link_text: boringcompany.com
-        sub_title:   
-        caption: 
-        quote: >
+          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA-Ring ACT192015.] (https://scian.cl/scientific-image-analysis/scian-beta/)
           
-        description: | # this will include new lines to allow paragraphs
-          Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. 
-
+          Spectral analysis of EEG signals to determine postoperative diseases. [Fondef Project ID19I10345.](https://neurosistemas.cl/2021/10/19/carlos-navarro/) 
           
-      - layout: left
-        title:  Faculty of Medicine. University of Chile. 
-        link: https://neurosistemas.cl/2021/10/19/carlos-navarro/ 
-        additional_links: https://scian.cl/scientific-image-analysis/scian-beta/
-        # link_text: boringcompany.com
-        sub_title:   Postdoctoral Researcher and  Assistant Researcher
-        caption: September 2019 - Present
-        quote: >
-          Solve problems related to medicine and biology by using automation tools 
-        description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. PIA-Ring ACT192015.
-          Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. 
           Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
 
   - title: Education # Title for the section
