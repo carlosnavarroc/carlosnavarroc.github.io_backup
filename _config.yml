@@ -82,15 +82,21 @@ content:
           During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
               
       - layout: left
-        title:  University of Chile - U. Santo Tomás - U. Andrés Bello
+        title:  Faculty of Physical Sciences and Mathematics. University of Chile.
         # link: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
-        sub_title:   Professor
+        sub_title:   Research Assistant
         caption: 2009 - 2016
         quote: >
-          One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to be an active part of their learning is challenging. 
+          In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper mine in Kamloops, Canada, to supervise an installation
         description: | # this will include new lines to allow paragraphs
-          During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
+          INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculation of descriptor and color models for supermarket products to detect stock breakages. 
+          
+          Fondef D08I-1060 Pattern recognition by video: surveillance and mining applications.
+          
+          Electrical Engineer Researcher for the P3 program "Intelligent Systems for Mining" (CSIRO Chile Research Foundation). • Design and construct control, power, and telemetry systems for laboratory and field tests of a Bluetooth-based sensor system for slope stability. (CSIRO Chile Research Foundation)
+          
+          
           
       
 
