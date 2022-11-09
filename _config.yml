@@ -60,7 +60,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  UChile News
-        #    icon: fab fa-github
+            icon: fab fa-github
             url: https://uchile.cl/i176928
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
