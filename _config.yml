@@ -64,7 +64,7 @@ content:
         quote: >
           Solve problems related to medicine and biology by using automation tools 
         description: | # this will include new lines to allow paragraphs
-          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA-Ring ACT192015.](https://scian.cl/scientific-image-analysis/scian-beta/)
+          Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015.](https://scian.cl/scientific-image-analysis/scian-beta/)
           
           Spectral analysis of EEG signals to determine postoperative diseases. [Fondef Project ID19I10345.](https://neurosistemas.cl/2021/10/19/carlos-navarro/) 
           
@@ -81,7 +81,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
               
-       - layout: left
+      - layout: left
         title:  University of Chile - U. Santo Tomás - U. Andrés Bello
         # link: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
