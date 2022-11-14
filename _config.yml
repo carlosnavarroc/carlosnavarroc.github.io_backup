@@ -68,6 +68,8 @@ content:
           
           Spectral analysis of EEG signals to determine postoperative diseases. [Fondef Project ID19I10345.](https://neurosistemas.cl/2021/10/19/carlos-navarro/) 
           
+          Remifentanil enhances propofol hypnotic clinical and electroencephalographic effect in humans during loss of consciousness. [Fondef Project ID19I10345.](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf) 
+          
           Audiological test detects early the presence of cognitive impairment in older adults. Fondef project ID20I10371.
           
           Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/)
@@ -88,13 +90,13 @@ content:
         # link: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
         sub_title:   Research Assistant
-        caption: 2009 - 2016
+        caption: 2009 - 2018
         quote: >
           In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper mine in Kamloops, Canada, to supervise an installation
         description: | # this will include new lines to allow paragraphs
           INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculation of descriptor and color models for supermarket products to detect stock breakages. 
           
-          Fondef D08I-1060 Pattern recognition by video: surveillance and mining applications.
+          Fondef D08I-1060 Pattern recognition by video: surveillance and [mining](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf) [applications](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf).
           
           Electrical Engineer Researcher for the P3 program "Intelligent Systems for Mining" (CSIRO Chile Research Foundation). • Design and construct control, power, and telemetry systems for laboratory and field tests of a Bluetooth-based sensor system for slope stability. (CSIRO Chile Research Foundation)
           
