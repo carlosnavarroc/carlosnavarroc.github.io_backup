@@ -83,7 +83,7 @@ content:
         quote: >
           One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to be an active part of their learning is challenging. 
         description: | # this will include new lines to allow paragraphs
-          During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as image processing or related laboratories.
+          During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes) or related laboratories.
               
       - layout: left
         title:  Faculty of Physical Sciences and Mathematics. University of Chile.
