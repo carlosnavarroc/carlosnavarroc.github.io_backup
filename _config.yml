@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_2023.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello there, my name is Carlos, and I'm a Ph.D. and Electrical Civil Engineer interested in Image Processing, Pattern Recognition, and Teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My Ph.D. thesis focused on detecting complex patterns using color and texture features.
 content:
