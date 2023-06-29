@@ -64,6 +64,8 @@ content:
         quote: >
           Solve problems related to medicine and biology by using automation tools 
         description: | # this will include new lines to allow paragraphs
+          RaViTT: Random Vision Transformer Tokens. [FONDECYT grants 1221696](https://arxiv.org/pdf/2306.10959.pdf)
+          
           Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015.](https://scian.cl/scientific-image-analysis/team-members-scianlab/)
           
           [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf) 
