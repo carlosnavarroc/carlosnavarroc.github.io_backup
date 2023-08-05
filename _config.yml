@@ -85,9 +85,7 @@ content:
           
           - Remifentanil enhances propofol hypnotic clinical and electroencephalographic effects in humans during loss of consciousness. [Fondef Project ID19I10345.](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf) 
           
-          
-          
-          
+         
       
       - layout: left
         title:  University of Chile - <br> U. Santo Tomás - <br>  U. Andrés Bello
@@ -114,7 +112,6 @@ content:
           Fondef D08I-1060 Pattern recognition by video: surveillance and [mining](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf) [applications](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf).
           
           Electrical Engineer Researcher for the P3 program "Intelligent Systems for Mining" (CSIRO Chile Research Foundation). • Design and construct control, power, and telemetry systems for laboratory and field tests of a Bluetooth-based sensor system for slope stability. (CSIRO Chile Research Foundation)
-          
           
           
       
@@ -163,7 +160,7 @@ content:
         quote: > 
           Thesis: Development of an intelligent image recognition engine for last-mile dispatch test photos. Author: Franco Mirauda.
         description: | # this will include new lines to allow paragraphs
-          In this work, an intelligent image recognition engine is proposed, which allows evaluating the quality of last-mile dispatches through the review of certain elements in the photograph taken at the moment of product delivery..
+          In this work, an intelligent image recognition engine is proposed, which allows evaluation of the quality of last-mile dispatches through the review of certain elements in the photograph taken at the moment of product delivery..
           [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)          
 
   - title: Other Projects # Title for the section
