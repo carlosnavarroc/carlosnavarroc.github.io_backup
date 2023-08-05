@@ -79,9 +79,7 @@ content:
           Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/)
       
       - layout: left
-        title:  University of Chile - 
-        U. Santo Tomás - 
-        U. Andrés Bello
+        title:  University of Chile - <br> U. Santo Tomás - U. Andrés Bello
         # link: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
         sub_title:   Professor
