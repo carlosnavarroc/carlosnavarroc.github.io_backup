@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Faculty of Medicine. University of Chile. 
+        title:  Faculty of Medicine. University of Chile. <br> [SCIANLab Researcher] (https://scian.cl/scientific-image-analysis/team-members-scianlab/) <br> [Neurosystems Researcher] (https://neurosistemas.cl/en/2021/10/19/carlos-navarro/)
         #link: https://scian.cl/scientific-image-analysis/scian-beta/
         additional_links: 
         # link_text: boringcompany.com
@@ -72,20 +72,20 @@ content:
           
           Spectral analysis of EEG signals to determine postoperative diseases. [Fondef Project ID19I10345.](https://neurosistemas.cl/2021/10/19/carlos-navarro/) 
           
-          Remifentanil enhances propofol hypnotic clinical and electroencephalographic effect in humans during loss of consciousness. [Fondef Project ID19I10345.](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf) 
+          Remifentanil enhances propofol hypnotic clinical and electroencephalographic effects in humans during loss of consciousness. [Fondef Project ID19I10345.](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf) 
           
-          Audiological test detects early the presence of cognitive impairment in older adults. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
+          An audiological test detects early the presence of cognitive impairment in older adults. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
           
           Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/)
       
       - layout: left
-        title:  University of Chile - <br> U. Santo Tomás - U. Andrés Bello
+        title:  University of Chile - <br> U. Santo Tomás - <br>  U. Andrés Bello
         # link: https://scian.cl/scientific-image-analysis/scian-beta/
         # link_text: boringcompany.com
         sub_title:   Professor
         caption: 2015 - Present
         quote: >
-          One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to be an active part of their learning is challenging. 
+          One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to participate in their learning actively is challenging. 
         description: | # this will include new lines to allow paragraphs
           During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes) or related laboratories.
               
@@ -96,7 +96,7 @@ content:
         sub_title:   Research Assistant
         caption: 2009 - 2018
         quote: >
-          In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper mine in Kamloops, Canada, to supervise an installation
+          In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation
         description: | # this will include new lines to allow paragraphs
           INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculation of descriptor and color models for supermarket products to detect stock breakages. 
           
